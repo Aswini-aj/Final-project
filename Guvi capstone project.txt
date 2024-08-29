@@ -1,0 +1,105 @@
+Git hub RepoURL
+https://github.com/Aishu-Guvi/Aishu-project
+ 
+ 
+deploy site URL
+https://hub.docker.com/repositories/aishuguvi
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUVI PROJECT SCREENSHOTS FOR REFERENCE
+
+
+GITHUB URL = https://github.com/Aishu-Guvi/Aishu-project
+ 
+
+
+ 
+
+DOCKER HUB SCREENSHOTS
+
+
+  
+
+
+ 
+
+
+
+
+
+-	 JENKINS URL =
+http://65.2.146.178:8081/job/Build%20and%20Push%20Docker%20Images%201/lastBuild/cons ole
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+EC2 INSTANCE:
+
+ 
+
+
+DOCKER CONTAINERS INSIDE THE TERMINAL
+ 
+
+
+EC2 INSTANCE :
+
+ 
+
+
+SECURITY GROUP
+ 
+
+Monitoring
+Grafana
+ 
+Promotheus
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
